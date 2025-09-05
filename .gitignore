@@ -1,0 +1,23 @@
+# Arquivos compilados e executáveis
+*.exe
+*.out
+*.o
+*.obj
+output/
+
+# Bibliotecas e arquivos de linkagem
+*.a
+*.lib
+*.so
+*.dll
+
+# Arquivos de depuração (debug)
+*.d
+*.pdb
+
+# Pasta de configuração do VSCode
+.vscode/
+
+# Arquivos de build (se você usar sistemas de build como CMake)
+build/
+bin/
